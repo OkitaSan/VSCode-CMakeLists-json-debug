@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/p/Desktop/project/src/add.cpp
+add.hpp
+/Users/p/Desktop/project/src/add.hpp
+
+/Users/p/Desktop/project/src/hello.cpp
+hello.hpp
+/Users/p/Desktop/project/src/hello.hpp
+

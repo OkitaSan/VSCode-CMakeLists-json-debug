@@ -1,0 +1,6 @@
+/Users/p/Desktop/project/CMakeFiles/rebuild_cache.dir
+/Users/p/Desktop/project/CMakeFiles/edit_cache.dir
+/Users/p/Desktop/project/CMakeFiles/hello1.dir
+/Users/p/Desktop/project/src/CMakeFiles/rebuild_cache.dir
+/Users/p/Desktop/project/src/CMakeFiles/edit_cache.dir
+/Users/p/Desktop/project/src/CMakeFiles/hellolib.dir
